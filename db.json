@@ -158,16 +158,6 @@
       "code": "TB",
       "fullName": "Tampa Bay Buccaneers",
       "shortName": "Tampa Bay"
-    },
-    {
-      "code": "TEN",
-      "fullName": "Tennessee Titans",
-      "shortName": "Tennessee"
-    },
-    {
-      "code": "WAS",
-      "fullName": "Washington Redskins",
-      "shortName": "Washington"
     }
   ]
 }
