@@ -1,6 +1,5 @@
 {
-  "entries": 30,
-  "Brands": [
+  "brands": [
     {
       "code": "ARI",
       "fullName": "Arizona Cardinals",
