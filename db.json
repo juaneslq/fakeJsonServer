@@ -1,4 +1,5 @@
 {
+  "entries": 30,
   "posts": [
     {
       "id": 1,
@@ -90,6 +91,16 @@
       "shortName": "Kansas City"
     },
     {
+      "code": "LAC",
+      "fullName": "Los Angeles Chargers",
+      "shortName": "Chargers"
+    },
+    {
+      "code": "LAR",
+      "fullName": "Los Angeles Rams",
+      "shortName": "Los Angeles"
+    },
+    {
       "code": "MIA",
       "fullName": "Miami Dolphins",
       "shortName": "Miami"
@@ -135,11 +146,6 @@
       "shortName": "Pittsburgh"
     },
     {
-      "code": "SD",
-      "fullName": "San Diego Chargers",
-      "shortName": "San Diego"
-    },
-    {
       "code": "SF",
       "fullName": "San Francisco 49ers",
       "shortName": "San Francisco"
@@ -148,11 +154,6 @@
       "code": "SEA",
       "fullName": "Seattle Seahawks",
       "shortName": "Seattle"
-    },
-    {
-      "code": "STL",
-      "fullName": "St. Louis Rams",
-      "shortName": "St. Louis"
     },
     {
       "code": "TB",
