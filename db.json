@@ -1,14 +1,5 @@
 {
   "entries": 30,
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "Brands": [
     {
       "code": "ARI",
